@@ -1,0 +1,6 @@
+ex03 example
+
+0.5/1
+
+comparer avec rd_example
+
